@@ -15,8 +15,8 @@
 ## Advice:
 1.Utilize appropriate data visualization techniques to effectively communicate findings and insights.
 2.Employ machine learning algorithms to build predictive models that can generalize to unseen data.
-3.Consider incorporating additional data sources, such as move sets and battle records, to enrich the analysis.
-4.Explore the potential for applying data science to other aspects of the Pokemon world, such as item strategies and team synergy.
+3.Consider incorporating additional data sources, such as move sets and battle records, to enrich the analysis.4.Explore the potential for applying data science to other aspects of the Pokemon world, such as item strategies and team synergy.
+
 
 ## Additional Notes:
 1.This repository serves as a hub for exploring data science applications in the Pokemon domain.
